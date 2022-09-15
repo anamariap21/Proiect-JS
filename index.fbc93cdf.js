@@ -1,0 +1,2 @@
+const e=document.getElementsByClassName("toggle-button")[0],t=document.getElementsByClassName("navbar-links")[0];e.addEventListener("click",(()=>{t.classList.toggle("active")}));const n=document.querySelector(".read-more-btn"),s=document.querySelector(".more-text");n.addEventListener("click",(e=>{s.classList.toggle("visible"),"Read More"===n.innerText?n.innerText="Read Less":n.innerText="Read More",e.preventDefault()}));
+//# sourceMappingURL=index.fbc93cdf.js.map

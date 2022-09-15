@@ -1,0 +1,2 @@
+const e=document.getElementsByClassName("toggle-button")[0],t=document.getElementsByClassName("navbar-links")[0];e.addEventListener("click",(()=>{t.classList.toggle("active")}));const n=document.getElementById("form");n.addEventListener("focus",(e=>{e.target.style.background="pink"}),!0),n.addEventListener("blur",(e=>{e.target.style.background=""}),!0);
+//# sourceMappingURL=contact.d114e0aa.js.map

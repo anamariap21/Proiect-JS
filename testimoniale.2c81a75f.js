@@ -1,0 +1,2 @@
+const e=document.getElementsByClassName("toggle-button")[0],t=document.getElementsByClassName("navbar-links")[0];e.addEventListener("click",(()=>{t.classList.toggle("active")}));const n=document.querySelector('input[type="email"]');n.addEventListener("focus",(e=>{e.target.style.background="pink"})),n.addEventListener("blur",(e=>{e.target.style.background="",e.preventDefault()}));
+//# sourceMappingURL=testimoniale.2c81a75f.js.map
